@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="201"
+   name=""
+   committed-date="2006-07-13T20:59:32.636631Z"
+   url="svn://gs3071.sp.cs.cmu.edu/voyager/trunk/code/cocoa/FullScreenApp/English.lproj"
+   last-author="carl"
+   kind="dir"
+   uuid="be5068c7-5494-b94e-a2e3-ccce799c6744"
+   repos="svn://gs3071.sp.cs.cmu.edu"
+   revision="210"/>
+<entry
+   committed-rev="201"
+   name="InfoPlist.strings"
+   text-time="2006-07-14T15:08:52.000000Z"
+   committed-date="2006-07-13T20:59:32.636631Z"
+   checksum="17937565e85df720af392ff2a5be1722"
+   last-author="carl"
+   kind="file"
+   prop-time="2006-07-14T15:08:51.000000Z"/>
+<entry
+   name="MainMenu.nib"
+   kind="dir"/>
+<entry
+   name="MainMenu~.nib"
+   kind="dir"/>
+</wc-entries>

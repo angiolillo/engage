@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   revision="417"
+   repos="svn://gs3071.sp.cs.cmu.edu"
+   url="svn://gs3071.sp.cs.cmu.edu/voyager/trunk/code/java/javadoc/backend/library"
+   last-author="carl"
+   uuid="be5068c7-5494-b94e-a2e3-ccce799c6744"
+   committed-date="2006-08-08T16:38:28.188786Z"
+   name=""
+   kind="dir"
+   committed-rev="398"/>
+<entry
+   checksum="96ed0e86d674970d730846012a145900"
+   last-author="carl"
+   text-time="2006-08-08T16:06:21.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="CategoryMedia.html"
+   committed-rev="398"/>
+<entry
+   checksum="d181eec699cc43c971c7808e6a3c01fe"
+   last-author="carl"
+   text-time="2006-08-08T16:06:22.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="ImageFile.html"
+   committed-rev="398"/>
+<entry
+   checksum="4b56d592f92066091d76fbb46f0bd183"
+   last-author="carl"
+   text-time="2006-08-08T16:06:22.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="LibraryObject.html"
+   committed-rev="398"/>
+<entry
+   checksum="22f699a7e5e94e0985e479c8a0e1bea9"
+   last-author="carl"
+   text-time="2006-08-08T16:06:23.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="MediaFile.html"
+   committed-rev="398"/>
+<entry
+   checksum="6b0531e5838bce12cd30e7e944868f2f"
+   last-author="carl"
+   text-time="2006-08-08T16:06:23.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="MediaLibrary.html"
+   committed-rev="398"/>
+<entry
+   checksum="99b0abc11ea276d416087f93be0725f6"
+   last-author="carl"
+   text-time="2006-08-08T16:06:24.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="ProgramMedia.html"
+   committed-rev="398"/>
+<entry
+   checksum="89c55d17aec2e72b749f2a072081725d"
+   last-author="carl"
+   text-time="2006-08-08T16:06:24.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="StationMedia.html"
+   committed-rev="398"/>
+<entry
+   name="class-use"
+   kind="dir"/>
+<entry
+   checksum="49c2d9f1a581f04ba2e2c0245899bc1b"
+   last-author="carl"
+   text-time="2006-08-08T16:06:33.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="package-frame.html"
+   committed-rev="398"/>
+<entry
+   checksum="86e31ab9d22aad118ad50bda29a2c096"
+   last-author="carl"
+   text-time="2006-08-08T16:06:33.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="package-summary.html"
+   committed-rev="398"/>
+<entry
+   checksum="9a0a61245a1cb8cfef03fe9a8842cf6e"
+   last-author="carl"
+   text-time="2006-08-08T16:06:33.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="package-tree.html"
+   committed-rev="398"/>
+<entry
+   checksum="01333af4d9cdddf9c80506e258780fde"
+   last-author="carl"
+   text-time="2006-08-08T16:06:34.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="package-use.html"
+   committed-rev="398"/>
+</wc-entries>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   revision="417"
+   repos="svn://gs3071.sp.cs.cmu.edu"
+   url="svn://gs3071.sp.cs.cmu.edu/voyager/trunk/code/java/javadoc/backend/library/class-use"
+   last-author="carl"
+   uuid="be5068c7-5494-b94e-a2e3-ccce799c6744"
+   committed-date="2006-08-08T16:38:28.188786Z"
+   kind="dir"
+   name=""
+   committed-rev="398"/>
+<entry
+   checksum="94167fe76126741b26c198973126c1ab"
+   last-author="carl"
+   text-time="2006-08-08T16:06:34.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="CategoryMedia.html"
+   committed-rev="398"/>
+<entry
+   checksum="6a4a88335207f1018526a2a460aa4904"
+   last-author="carl"
+   text-time="2006-08-08T16:06:34.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="ImageFile.html"
+   committed-rev="398"/>
+<entry
+   checksum="dc396073c7d239685ed640b9ba240328"
+   last-author="carl"
+   text-time="2006-08-08T16:06:34.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="LibraryObject.html"
+   committed-rev="398"/>
+<entry
+   checksum="81677c59bac5a7764d8425107218eb53"
+   last-author="carl"
+   text-time="2006-08-08T16:06:34.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="MediaFile.html"
+   committed-rev="398"/>
+<entry
+   checksum="4dc5bdfcd791c0f2e6da213c3b830757"
+   last-author="carl"
+   text-time="2006-08-08T16:06:33.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="MediaLibrary.html"
+   committed-rev="398"/>
+<entry
+   checksum="f5283d73b8bdb1b205c9887224bfba66"
+   last-author="carl"
+   text-time="2006-08-08T16:06:33.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="ProgramMedia.html"
+   committed-rev="398"/>
+<entry
+   checksum="a227a324a915b6451a29302bdb41ac89"
+   last-author="carl"
+   text-time="2006-08-08T16:06:33.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="StationMedia.html"
+   committed-rev="398"/>
+</wc-entries>

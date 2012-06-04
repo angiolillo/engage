@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   revision="417"
+   repos="svn://gs3071.sp.cs.cmu.edu"
+   url="svn://gs3071.sp.cs.cmu.edu/voyager/trunk/code/java/javadoc/ui/stage/class-use"
+   last-author="carl"
+   uuid="be5068c7-5494-b94e-a2e3-ccce799c6744"
+   committed-date="2006-08-08T16:38:28.188786Z"
+   kind="dir"
+   name=""
+   committed-rev="398"/>
+<entry
+   checksum="d6e1590b21fcf24d9a9abb799f5c2496"
+   last-author="carl"
+   text-time="2006-08-08T16:06:34.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="MainStage.html"
+   committed-rev="398"/>
+</wc-entries>

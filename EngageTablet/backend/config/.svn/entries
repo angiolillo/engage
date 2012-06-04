@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   revision="417"
+   repos="svn://gs3071.sp.cs.cmu.edu"
+   url="svn://gs3071.sp.cs.cmu.edu/voyager/trunk/code/java/backend/config"
+   last-author="jterlesk"
+   uuid="be5068c7-5494-b94e-a2e3-ccce799c6744"
+   committed-date="2006-08-09T00:33:14.051509Z"
+   kind="dir"
+   name=""
+   committed-rev="415"/>
+<entry
+   checksum="dc4ab3d5316e5f66d81e929cdb95a029"
+   text-time="2006-08-09T00:33:14.000000Z"
+   kind="file"
+   last-author="jterlesk"
+   committed-date="2006-08-09T00:33:14.051509Z"
+   name="ConfigReader.java"
+   committed-rev="415"/>
+</wc-entries>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   revision="417"
+   repos="svn://gs3071.sp.cs.cmu.edu"
+   url="svn://gs3071.sp.cs.cmu.edu/voyager/trunk/code/java/backend/library"
+   last-author="jterlesk"
+   uuid="be5068c7-5494-b94e-a2e3-ccce799c6744"
+   committed-date="2006-08-09T01:03:57.453932Z"
+   kind="dir"
+   name=""
+   committed-rev="417"/>
+<entry
+   checksum="30850131505f96b785c73fc75186de4b"
+   last-author="jterlesk"
+   text-time="2006-08-09T00:33:14.000000Z"
+   committed-date="2006-08-09T00:33:14.051509Z"
+   name="CategoryMedia.java"
+   kind="file"
+   committed-rev="415"/>
+<entry
+   checksum="449413de4a8d9cd6b96dd22fd4a0f53c"
+   last-author="carl"
+   text-time="2006-08-08T16:29:33.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="ImageFile.java"
+   committed-rev="398"/>
+<entry
+   checksum="094044f2afc4716cf03ec02abbbca4c8"
+   last-author="jterlesk"
+   text-time="2006-08-09T00:33:14.000000Z"
+   committed-date="2006-08-09T00:33:14.051509Z"
+   name="LibraryObject.java"
+   kind="file"
+   committed-rev="415"/>
+<entry
+   checksum="88d43a81f3785662e656f9a0b3a6436f"
+   last-author="jterlesk"
+   text-time="2006-08-09T00:33:14.000000Z"
+   committed-date="2006-08-09T00:33:14.051509Z"
+   name="MediaFile.java"
+   kind="file"
+   committed-rev="415"/>
+<entry
+   checksum="cf009b393b8e95649d64f29d8a4297e9"
+   last-author="jterlesk"
+   text-time="2006-08-09T01:03:57.000000Z"
+   committed-date="2006-08-09T01:03:57.453932Z"
+   name="MediaLibrary.java"
+   kind="file"
+   committed-rev="417"/>
+<entry
+   checksum="42d4e3bbd8810185cb0189630288d3d4"
+   last-author="jterlesk"
+   text-time="2006-08-09T00:33:14.000000Z"
+   committed-date="2006-08-09T00:33:14.051509Z"
+   name="ProgramMedia.java"
+   kind="file"
+   committed-rev="415"/>
+<entry
+   checksum="88a4ed6ecbc2788cf6fc318b2e27717d"
+   last-author="jterlesk"
+   text-time="2006-08-09T00:33:14.000000Z"
+   committed-date="2006-08-09T00:33:14.051509Z"
+   name="StationMedia.java"
+   kind="file"
+   committed-rev="415"/>
+<entry
+   checksum="3de6877f22706449be64472616468d27"
+   last-author="jterlesk"
+   text-time="2006-08-09T00:33:14.000000Z"
+   committed-date="2006-08-09T00:33:14.051509Z"
+   name="ThumbLabel.java"
+   kind="file"
+   committed-rev="415"/>
+</wc-entries>

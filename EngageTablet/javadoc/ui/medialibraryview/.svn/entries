@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   revision="417"
+   repos="svn://gs3071.sp.cs.cmu.edu"
+   url="svn://gs3071.sp.cs.cmu.edu/voyager/trunk/code/java/javadoc/ui/medialibraryview"
+   last-author="carl"
+   uuid="be5068c7-5494-b94e-a2e3-ccce799c6744"
+   committed-date="2006-08-08T16:38:28.188786Z"
+   name=""
+   kind="dir"
+   committed-rev="398"/>
+<entry
+   checksum="6266033258c76b5d71930ef44c9d787e"
+   last-author="Carl"
+   text-time="2006-07-05T21:46:16.000000Z"
+   committed-date="2006-07-05T21:46:16.231394Z"
+   kind="file"
+   name="OnDemandMediaPlatform.html"
+   committed-rev="68"/>
+<entry
+   checksum="f3fe81c3bbfe3ed3956f8de817b3deea"
+   last-author="carl"
+   text-time="2006-08-08T16:06:26.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="StationMediaLibrary.html"
+   committed-rev="398"/>
+<entry
+   name="class-use"
+   kind="dir"/>
+<entry
+   checksum="2e26bca2919465d523653dd2df9684a0"
+   last-author="carl"
+   text-time="2006-08-08T16:06:33.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="package-frame.html"
+   committed-rev="398"/>
+<entry
+   checksum="482ef053f098d9973772bbedcdfb8b35"
+   last-author="carl"
+   text-time="2006-08-08T16:06:33.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="package-summary.html"
+   committed-rev="398"/>
+<entry
+   checksum="8924cda6dcf385e05a581e9f1696fa88"
+   last-author="carl"
+   text-time="2006-08-08T16:06:33.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="package-tree.html"
+   committed-rev="398"/>
+<entry
+   checksum="3466b5e44d66d705a74f534e7d1e73b2"
+   last-author="carl"
+   text-time="2006-08-08T16:06:34.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="package-use.html"
+   committed-rev="398"/>
+</wc-entries>

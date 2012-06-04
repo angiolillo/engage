@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="svn://gs3071.sp.cs.cmu.edu"
+   revision="417"
+   url="svn://gs3071.sp.cs.cmu.edu/voyager/trunk/code/java/javadoc/resources"
+   last-author="Carl"
+   uuid="be5068c7-5494-b94e-a2e3-ccce799c6744"
+   committed-date="2006-07-01T01:49:05.162351Z"
+   name=""
+   kind="dir"
+   committed-rev="49"/>
+<entry
+   checksum="220f4eda0bd49915699315f18b8b03cf"
+   last-author="Carl"
+   prop-time="2006-08-05T04:26:32.000000Z"
+   text-time="2006-07-01T01:49:05.000000Z"
+   committed-date="2006-07-01T01:49:05.162351Z"
+   name="inherit.gif"
+   kind="file"
+   committed-rev="49"/>
+</wc-entries>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   revision="417"
+   repos="svn://gs3071.sp.cs.cmu.edu"
+   url="svn://gs3071.sp.cs.cmu.edu/voyager/trunk/code/java/javadoc/ui/class-use"
+   last-author="carl"
+   uuid="be5068c7-5494-b94e-a2e3-ccce799c6744"
+   committed-date="2006-08-08T16:38:28.188786Z"
+   kind="dir"
+   name=""
+   committed-rev="398"/>
+<entry
+   checksum="fd47f8c567146acada7c1f167ea51b08"
+   last-author="carl"
+   text-time="2006-08-08T16:06:34.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="DraggableImage.html"
+   committed-rev="398"/>
+</wc-entries>

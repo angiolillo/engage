@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   revision="417"
+   repos="svn://gs3071.sp.cs.cmu.edu"
+   url="svn://gs3071.sp.cs.cmu.edu/voyager/trunk/code/java/javadoc"
+   last-author="carl"
+   uuid="be5068c7-5494-b94e-a2e3-ccce799c6744"
+   committed-date="2006-08-08T16:38:28.188786Z"
+   name=""
+   kind="dir"
+   committed-rev="398"/>
+<entry
+   checksum="3489fb588cbfb7ac03db7585ac67d0b2"
+   last-author="carl"
+   text-time="2006-08-08T16:06:34.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="allclasses-frame.html"
+   committed-rev="398"/>
+<entry
+   checksum="4b1afa1dbc19a2b0acd147b069cba85c"
+   last-author="carl"
+   text-time="2006-08-08T16:06:34.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="allclasses-noframe.html"
+   committed-rev="398"/>
+<entry
+   kind="dir"
+   name="backend"/>
+<entry
+   checksum="4538759b7d066707c7aeba3fe194c0b7"
+   last-author="carl"
+   text-time="2006-08-08T16:06:33.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="constant-values.html"
+   committed-rev="398"/>
+<entry
+   checksum="44343e3d8cd1df3f7871780eeb7d2ea7"
+   last-author="carl"
+   text-time="2006-08-08T16:06:34.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="deprecated-list.html"
+   committed-rev="398"/>
+<entry
+   checksum="8e46f9ca13d7208c54e63f1b27334660"
+   last-author="carl"
+   text-time="2006-08-08T16:06:34.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="help-doc.html"
+   committed-rev="398"/>
+<entry
+   name="index-files"
+   kind="dir"/>
+<entry
+   checksum="2a2c89a4fd20cad6dad2a636d0d6b7a0"
+   last-author="carl"
+   text-time="2006-08-08T16:06:34.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="index.html"
+   committed-rev="398"/>
+<entry
+   name="main"
+   kind="dir"/>
+<entry
+   checksum="2d3142aff02f8d3e84acc52af7c30b91"
+   last-author="carl"
+   text-time="2006-08-08T16:06:33.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="overview-frame.html"
+   committed-rev="398"/>
+<entry
+   checksum="0f5904e9947c0b01dc240d279956c544"
+   last-author="carl"
+   text-time="2006-08-08T16:06:34.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="overview-summary.html"
+   committed-rev="398"/>
+<entry
+   checksum="608211e816d49532a435d4e336bf0fce"
+   last-author="carl"
+   text-time="2006-08-08T16:06:34.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="overview-tree.html"
+   committed-rev="398"/>
+<entry
+   checksum="325fa5b4163adcd396f7cef69112c722"
+   last-author="carl"
+   text-time="2006-08-08T16:06:33.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="package-list"
+   committed-rev="398"/>
+<entry
+   checksum="8a6e60f899df40d7ed6038f5c69d6b96"
+   last-author="Carl"
+   text-time="2006-07-05T21:46:16.000000Z"
+   committed-date="2006-07-05T21:46:16.231394Z"
+   kind="file"
+   name="packages.html"
+   committed-rev="68"/>
+<entry
+   kind="dir"
+   name="resources"/>
+<entry
+   checksum="31d4ff632724da2dd101f5e62463f0b5"
+   last-author="carl"
+   text-time="2006-08-08T16:06:33.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="serialized-form.html"
+   committed-rev="398"/>
+<entry
+   checksum="8cc88314fce0cc52e57f9ccb2cb8436e"
+   last-author="carl"
+   text-time="2006-08-08T16:06:34.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="stylesheet.css"
+   committed-rev="398"/>
+<entry
+   name="ui"
+   kind="dir"/>
+</wc-entries>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   revision="417"
+   repos="svn://gs3071.sp.cs.cmu.edu"
+   url="svn://gs3071.sp.cs.cmu.edu/voyager/trunk/code/java/ui"
+   last-author="jterlesk"
+   uuid="be5068c7-5494-b94e-a2e3-ccce799c6744"
+   committed-date="2006-08-09T01:03:57.453932Z"
+   kind="dir"
+   name=""
+   committed-rev="417"/>
+<entry
+   revision="418"
+   checksum="06fd1418ba5d35f91fc9f456620cebd4"
+   last-author="carl"
+   text-time="2006-08-09T05:06:02.000000Z"
+   committed-date="2006-08-09T05:07:43.125000Z"
+   name="DraggableImage.java"
+   kind="file"
+   committed-rev="418"/>
+<entry
+   kind="dir"
+   name="login"/>
+<entry
+   kind="dir"
+   name="medialibraryview"/>
+<entry
+   kind="dir"
+   name="nav"/>
+<entry
+   name="queue"
+   kind="dir"/>
+<entry
+   name="splash"
+   kind="dir"/>
+<entry
+   name="stage"
+   kind="dir"/>
+</wc-entries>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   revision="417"
+   repos="svn://gs3071.sp.cs.cmu.edu"
+   url="svn://gs3071.sp.cs.cmu.edu/voyager/trunk/code/java/javadoc/ui/medialibraryview/class-use"
+   last-author="carl"
+   uuid="be5068c7-5494-b94e-a2e3-ccce799c6744"
+   committed-date="2006-08-08T16:38:28.188786Z"
+   kind="dir"
+   name=""
+   committed-rev="398"/>
+<entry
+   checksum="e45d3b965e047643a79f3fc572f7b33b"
+   last-author="Carl"
+   text-time="2006-07-05T21:46:16.000000Z"
+   committed-date="2006-07-05T21:46:16.231394Z"
+   kind="file"
+   name="OnDemandMediaPlatform.html"
+   committed-rev="68"/>
+<entry
+   checksum="2a4d8a179511f2f5657aa0d72931b0d3"
+   last-author="carl"
+   text-time="2006-08-08T16:06:34.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="StationMediaLibrary.html"
+   committed-rev="398"/>
+</wc-entries>

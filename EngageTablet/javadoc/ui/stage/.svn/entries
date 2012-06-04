@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   revision="417"
+   repos="svn://gs3071.sp.cs.cmu.edu"
+   url="svn://gs3071.sp.cs.cmu.edu/voyager/trunk/code/java/javadoc/ui/stage"
+   last-author="carl"
+   uuid="be5068c7-5494-b94e-a2e3-ccce799c6744"
+   committed-date="2006-08-08T16:38:28.188786Z"
+   name=""
+   kind="dir"
+   committed-rev="398"/>
+<entry
+   checksum="aead9056fdf9a69a37e1ef38201d87a7"
+   last-author="carl"
+   text-time="2006-08-08T16:06:33.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="MainStage.html"
+   committed-rev="398"/>
+<entry
+   name="class-use"
+   kind="dir"/>
+<entry
+   checksum="d7d34cdb479a75374b22f9dde65fab9d"
+   last-author="carl"
+   text-time="2006-08-08T16:06:33.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="package-frame.html"
+   committed-rev="398"/>
+<entry
+   checksum="d605171c3f3296e24e249a015773d104"
+   last-author="carl"
+   text-time="2006-08-08T16:06:33.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="package-summary.html"
+   committed-rev="398"/>
+<entry
+   checksum="26d981e411d3957d65f17f6f27b1af7b"
+   last-author="carl"
+   text-time="2006-08-08T16:06:33.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="package-tree.html"
+   committed-rev="398"/>
+<entry
+   checksum="c20bfbb131df292209f99579f6017a8d"
+   last-author="carl"
+   text-time="2006-08-08T16:06:34.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="package-use.html"
+   committed-rev="398"/>
+</wc-entries>

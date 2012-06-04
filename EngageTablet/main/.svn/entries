@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   revision="417"
+   repos="svn://gs3071.sp.cs.cmu.edu"
+   url="svn://gs3071.sp.cs.cmu.edu/voyager/trunk/code/java/main"
+   last-author="jterlesk"
+   uuid="be5068c7-5494-b94e-a2e3-ccce799c6744"
+   committed-date="2006-08-09T01:03:57.453932Z"
+   kind="dir"
+   name=""
+   committed-rev="417"/>
+<entry
+   checksum="3db1fd84e430e14b023374f979057ff2"
+   last-author="jterlesk"
+   text-time="2006-08-08T20:33:18.000000Z"
+   committed-date="2006-08-08T20:33:18.622715Z"
+   name="Constants.java"
+   kind="file"
+   committed-rev="411"/>
+<entry
+   checksum="3ad620befc12f5c7647168f4bd89865a"
+   text-time="2006-08-09T05:06:16.000000Z"
+   kind="file"
+   revision="418"
+   last-author="carl"
+   committed-date="2006-08-09T05:07:43.125000Z"
+   name="Engage.java"
+   committed-rev="418"/>
+<entry
+   checksum="327c350435d535f7f7df923342ad0505"
+   last-author="jterlesk"
+   text-time="2006-08-09T01:03:57.000000Z"
+   committed-date="2006-08-09T01:03:57.453932Z"
+   name="Logger.java"
+   kind="file"
+   committed-rev="417"/>
+<entry
+   revision="418"
+   deleted="true"
+   kind="file"
+   name="OnDemandMedia.java"/>
+</wc-entries>

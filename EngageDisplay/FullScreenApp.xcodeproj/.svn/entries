@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="201"
+   name=""
+   committed-date="2006-07-13T20:59:32.636631Z"
+   url="svn://gs3071.sp.cs.cmu.edu/voyager/trunk/code/cocoa/FullScreenApp/FullScreenApp.xcodeproj"
+   last-author="carl"
+   kind="dir"
+   uuid="be5068c7-5494-b94e-a2e3-ccce799c6744"
+   repos="svn://gs3071.sp.cs.cmu.edu"
+   revision="210"/>
+<entry
+   committed-rev="201"
+   name="jterlesk.mode1"
+   text-time="2006-07-14T15:08:51.000000Z"
+   committed-date="2006-07-13T20:59:32.636631Z"
+   checksum="62a11123de9b795b2edadfa1e9a95ecc"
+   last-author="carl"
+   kind="file"
+   prop-time="2006-07-14T15:08:51.000000Z"/>
+<entry
+   committed-rev="201"
+   name="project.pbxproj"
+   text-time="2006-07-14T15:08:51.000000Z"
+   committed-date="2006-07-13T20:59:32.636631Z"
+   checksum="2e42cf079bfaf2aeb6cae1d7a84efc61"
+   last-author="carl"
+   kind="file"
+   prop-time="2006-07-14T15:08:51.000000Z"/>
+<entry
+   committed-rev="201"
+   name="jterlesk.pbxuser"
+   text-time="2006-07-14T15:08:51.000000Z"
+   committed-date="2006-07-13T20:59:32.636631Z"
+   checksum="56ea002a590fef6283d09aee944b13ea"
+   last-author="carl"
+   kind="file"
+   prop-time="2006-07-14T15:08:51.000000Z"/>
+</wc-entries>

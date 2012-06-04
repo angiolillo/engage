@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   revision="417"
+   repos="svn://gs3071.sp.cs.cmu.edu"
+   url="svn://gs3071.sp.cs.cmu.edu/voyager/trunk/code/java/ui/medialibraryview"
+   last-author="jterlesk"
+   uuid="be5068c7-5494-b94e-a2e3-ccce799c6744"
+   committed-date="2006-08-08T22:59:53.437541Z"
+   kind="dir"
+   name=""
+   committed-rev="414"/>
+<entry
+   checksum="3cfedaa98149b281fd7296db41ec4eef"
+   last-author="carl"
+   text-time="2006-08-08T16:35:42.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="LibraryCell.java"
+   committed-rev="398"/>
+<entry
+   revision="418"
+   checksum="ad26279dcaef5e66ad5e9df57e46e343"
+   last-author="carl"
+   text-time="2006-08-09T05:06:03.000000Z"
+   committed-date="2006-08-09T05:07:43.125000Z"
+   kind="file"
+   name="StationMediaLibrary.java"
+   committed-rev="418"/>
+<entry
+   checksum="a35b1e88d664f98aabb0c708b25ce9a5"
+   last-author="andy"
+   prop-time="2006-08-05T04:26:34.000000Z"
+   text-time="2006-07-25T15:22:18.000000Z"
+   committed-date="2006-07-25T15:22:18.913894Z"
+   kind="file"
+   name="banner_title.png"
+   committed-rev="307"/>
+<entry
+   checksum="ced2d91769bfc235a81e8748c0e8f14a"
+   last-author="andy"
+   prop-time="2006-08-05T04:26:34.000000Z"
+   text-time="2006-07-26T18:05:04.000000Z"
+   committed-date="2006-07-26T18:05:04.795371Z"
+   kind="file"
+   name="lib_next.png"
+   committed-rev="317"/>
+<entry
+   checksum="69ff07da5d62eb8dc3d432a59ef5eb65"
+   last-author="andy"
+   prop-time="2006-08-05T04:26:34.000000Z"
+   text-time="2006-07-26T18:05:04.000000Z"
+   committed-date="2006-07-26T18:05:04.795371Z"
+   kind="file"
+   name="lib_prev.png"
+   committed-rev="317"/>
+</wc-entries>

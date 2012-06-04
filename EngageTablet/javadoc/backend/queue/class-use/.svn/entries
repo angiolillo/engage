@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   revision="417"
+   repos="svn://gs3071.sp.cs.cmu.edu"
+   url="svn://gs3071.sp.cs.cmu.edu/voyager/trunk/code/java/javadoc/backend/queue/class-use"
+   last-author="carl"
+   uuid="be5068c7-5494-b94e-a2e3-ccce799c6744"
+   committed-date="2006-08-08T16:38:28.188786Z"
+   kind="dir"
+   name=""
+   committed-rev="398"/>
+<entry
+   checksum="fe1da4693f20ea4db94d2b356c996874"
+   last-author="carl"
+   text-time="2006-08-08T16:06:34.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="GroupQueue.html"
+   committed-rev="398"/>
+<entry
+   checksum="44e22046a34c896baa38afd1bd7c56f2"
+   last-author="Carl"
+   text-time="2006-07-05T21:46:16.000000Z"
+   committed-date="2006-07-05T21:46:16.231394Z"
+   kind="file"
+   name="InstructorQueues.html"
+   committed-rev="68"/>
+<entry
+   checksum="554b279ab30d471e8175b7cfff39ab2b"
+   last-author="Carl"
+   text-time="2006-07-05T21:46:16.000000Z"
+   committed-date="2006-07-05T21:46:16.231394Z"
+   kind="file"
+   name="ProgramQueues.html"
+   committed-rev="68"/>
+<entry
+   checksum="c7ac8f2da88ac08491d20effe96f2510"
+   last-author="carl"
+   text-time="2006-08-08T16:06:34.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="QueueLibrary.html"
+   committed-rev="398"/>
+<entry
+   checksum="1ee62bc7855596a045d13d8f035340b3"
+   last-author="carl"
+   text-time="2006-08-08T16:06:34.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="StationQueue.html"
+   committed-rev="398"/>
+<entry
+   checksum="44f7f7ae3b1aeadb2fafd28ee5380638"
+   last-author="Carl"
+   text-time="2006-07-01T04:24:18.000000Z"
+   committed-date="2006-07-01T04:24:18.190704Z"
+   kind="file"
+   name="StationQueueGroups.html"
+   committed-rev="50"/>
+</wc-entries>

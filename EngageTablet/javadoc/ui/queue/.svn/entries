@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   revision="417"
+   repos="svn://gs3071.sp.cs.cmu.edu"
+   url="svn://gs3071.sp.cs.cmu.edu/voyager/trunk/code/java/javadoc/ui/queue"
+   last-author="carl"
+   uuid="be5068c7-5494-b94e-a2e3-ccce799c6744"
+   committed-date="2006-08-08T16:38:28.188786Z"
+   name=""
+   kind="dir"
+   committed-rev="398"/>
+<entry
+   checksum="273ca67879c619296297084ae9e2b0b9"
+   last-author="carl"
+   text-time="2006-08-08T16:06:30.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="MediaStrip.html"
+   committed-rev="398"/>
+<entry
+   checksum="22c6ecdd57f9e662212af7cc25b15a8b"
+   last-author="Carl"
+   text-time="2006-07-05T21:46:16.000000Z"
+   committed-date="2006-07-05T21:46:16.231394Z"
+   kind="file"
+   name="QueuePanel.html"
+   committed-rev="68"/>
+<entry
+   name="class-use"
+   kind="dir"/>
+<entry
+   checksum="84dafa7dd5563db1fa0c221e834231d0"
+   last-author="carl"
+   text-time="2006-08-08T16:06:33.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="package-frame.html"
+   committed-rev="398"/>
+<entry
+   checksum="6c208c8bfb935f8d62d1030f9a24164b"
+   last-author="carl"
+   text-time="2006-08-08T16:06:33.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="package-summary.html"
+   committed-rev="398"/>
+<entry
+   checksum="a077627b16b3386ced2e811c8d7e0426"
+   last-author="carl"
+   text-time="2006-08-08T16:06:33.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="package-tree.html"
+   committed-rev="398"/>
+<entry
+   checksum="ced58140e9a25b1ebb57ad69343491ff"
+   last-author="carl"
+   text-time="2006-08-08T16:06:34.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="package-use.html"
+   committed-rev="398"/>
+</wc-entries>

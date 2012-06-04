@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="svn://gs3071.sp.cs.cmu.edu"
+   revision="417"
+   url="svn://gs3071.sp.cs.cmu.edu/voyager/trunk/code/java/ui/stage"
+   last-author="jterlesk"
+   uuid="be5068c7-5494-b94e-a2e3-ccce799c6744"
+   committed-date="2006-08-09T00:33:14.051509Z"
+   name=""
+   kind="dir"
+   committed-rev="415"/>
+<entry
+   checksum="51ff483f909b1706af01e372f6ce4abf"
+   last-author="carl"
+   text-time="2006-08-08T16:17:29.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   name="ImagePanel.java"
+   kind="file"
+   committed-rev="398"/>
+<entry
+   revision="418"
+   checksum="86dd9d5b892aa2fa205f4ac616b19d92"
+   last-author="carl"
+   text-time="2006-08-09T05:06:02.000000Z"
+   committed-date="2006-08-09T05:07:43.125000Z"
+   kind="file"
+   name="MainStage.java"
+   committed-rev="418"/>
+<entry
+   checksum="bdf06fdb30eeedeebbc9018027820b6f"
+   last-author="jterlesk"
+   text-time="2006-08-09T00:33:14.000000Z"
+   committed-date="2006-08-09T00:33:14.051509Z"
+   kind="file"
+   name="StageClient.java"
+   committed-rev="415"/>
+<entry
+   checksum="2195029eb2f256437260f57d1e8efaae"
+   last-author="carl"
+   prop-time="2006-08-05T04:26:34.000000Z"
+   text-time="2006-07-25T03:34:08.000000Z"
+   committed-date="2006-07-25T03:34:08.784544Z"
+   name="next_button.png"
+   kind="file"
+   committed-rev="304"/>
+<entry
+   checksum="d646c949e6421744da39bf0c75069d98"
+   last-author="carl"
+   prop-time="2006-08-05T04:26:34.000000Z"
+   text-time="2006-07-26T18:35:26.000000Z"
+   committed-date="2006-07-26T18:35:26.666406Z"
+   name="prev_button.png"
+   kind="file"
+   committed-rev="320"/>
+<entry
+   checksum="ed4f62c821ee6e5d0f5ec4984a57f208"
+   last-author="carl"
+   prop-time="2006-08-05T04:26:34.000000Z"
+   text-time="2006-07-25T03:34:08.000000Z"
+   committed-date="2006-07-25T03:34:08.784544Z"
+   name="stage_background.png"
+   kind="file"
+   committed-rev="304"/>
+</wc-entries>

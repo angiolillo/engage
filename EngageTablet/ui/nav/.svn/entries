@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   revision="417"
+   repos="svn://gs3071.sp.cs.cmu.edu"
+   url="svn://gs3071.sp.cs.cmu.edu/voyager/trunk/code/java/ui/nav"
+   last-author="jterlesk"
+   uuid="be5068c7-5494-b94e-a2e3-ccce799c6744"
+   committed-date="2006-08-09T01:03:57.453932Z"
+   kind="dir"
+   name=""
+   committed-rev="417"/>
+<entry
+   revision="418"
+   checksum="1f38d3ced7df808ce5e2372a07b50511"
+   last-author="carl"
+   text-time="2006-08-09T05:06:02.000000Z"
+   committed-date="2006-08-09T05:07:43.125000Z"
+   kind="file"
+   name="LibraryToggleButton.java"
+   committed-rev="418"/>
+<entry
+   revision="418"
+   checksum="f7a32743aface5be3879c0e9ef96e19f"
+   last-author="carl"
+   text-time="2006-08-09T05:06:02.000000Z"
+   committed-date="2006-08-09T05:07:43.125000Z"
+   kind="file"
+   name="LogoutButton.java"
+   committed-rev="418"/>
+<entry
+   revision="418"
+   checksum="4becd1ae2deb861ed5f7aee4b1ff0ad9"
+   last-author="carl"
+   text-time="2006-08-09T05:06:03.000000Z"
+   committed-date="2006-08-09T05:07:43.125000Z"
+   kind="file"
+   name="Navbar.java"
+   committed-rev="418"/>
+<entry
+   checksum="5ec7bed293371132a0a214309e0b5a38"
+   last-author="carl"
+   text-time="2006-08-08T16:17:15.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="StationSelector.java"
+   committed-rev="398"/>
+<entry
+   checksum="f20878990459d8444c93d0596ed73c2b"
+   last-author="carl"
+   prop-time="2006-08-05T04:26:35.000000Z"
+   text-time="2006-07-18T16:26:56.000000Z"
+   committed-date="2006-07-18T16:26:56.354984Z"
+   kind="file"
+   name="exitBlue.png"
+   committed-rev="246"/>
+<entry
+   checksum="d33acbed49750dad8189621c0908ed33"
+   last-author="carl"
+   prop-time="2006-08-05T04:26:35.000000Z"
+   text-time="2006-07-18T16:26:56.000000Z"
+   committed-date="2006-07-18T16:26:56.354984Z"
+   kind="file"
+   name="exitRed.png"
+   committed-rev="246"/>
+<entry
+   checksum="1903956fc66754f02cb0465dffc7203d"
+   last-author="carl"
+   prop-time="2006-08-05T04:26:35.000000Z"
+   text-time="2006-07-19T18:45:50.000000Z"
+   committed-date="2006-07-19T18:45:50.191940Z"
+   kind="file"
+   name="hide_media_library.png"
+   committed-rev="270"/>
+<entry
+   checksum="637468b2ab1094d37be247a6749ac982"
+   last-author="carl"
+   prop-time="2006-08-05T04:26:35.000000Z"
+   text-time="2006-07-25T03:34:08.000000Z"
+   committed-date="2006-07-25T03:34:08.784544Z"
+   kind="file"
+   name="logout.png"
+   committed-rev="304"/>
+<entry
+   checksum="68227403023a95f3ed99b732d9c02962"
+   last-author="carl"
+   prop-time="2006-08-05T04:26:35.000000Z"
+   text-time="2006-07-19T19:01:31.000000Z"
+   committed-date="2006-07-19T19:01:31.119837Z"
+   kind="file"
+   name="navbar_header.png"
+   committed-rev="272"/>
+<entry
+   checksum="baa96cdf34274be787222ab463d80188"
+   last-author="carl"
+   prop-time="2006-08-05T04:26:35.000000Z"
+   text-time="2006-07-19T18:45:50.000000Z"
+   committed-date="2006-07-19T18:45:50.191940Z"
+   kind="file"
+   name="show_media_library.png"
+   committed-rev="270"/>
+</wc-entries>

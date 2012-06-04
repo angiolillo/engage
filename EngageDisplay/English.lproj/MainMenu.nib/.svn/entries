@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="201"
+   name=""
+   committed-date="2006-07-13T20:59:32.636631Z"
+   url="svn://gs3071.sp.cs.cmu.edu/voyager/trunk/code/cocoa/FullScreenApp/English.lproj/MainMenu.nib"
+   last-author="carl"
+   kind="dir"
+   uuid="be5068c7-5494-b94e-a2e3-ccce799c6744"
+   repos="svn://gs3071.sp.cs.cmu.edu"
+   revision="210"/>
+<entry
+   committed-rev="201"
+   name="objects.nib"
+   text-time="2006-07-14T15:08:52.000000Z"
+   committed-date="2006-07-13T20:59:32.636631Z"
+   checksum="66c7beb311d1be7125aa003d7d4118d2"
+   last-author="carl"
+   kind="file"
+   prop-time="2006-07-14T15:08:51.000000Z"/>
+<entry
+   committed-rev="201"
+   name="info.nib"
+   text-time="2006-07-14T15:08:52.000000Z"
+   committed-date="2006-07-13T20:59:32.636631Z"
+   checksum="75cf1dd47dd3550b03552e6d3bf8ab44"
+   last-author="carl"
+   kind="file"
+   prop-time="2006-07-14T15:08:51.000000Z"/>
+<entry
+   committed-rev="201"
+   name="keyedobjects.nib"
+   text-time="2006-07-14T15:08:52.000000Z"
+   committed-date="2006-07-13T20:59:32.636631Z"
+   checksum="824497d1aabe71fd275db8160e49b7c9"
+   last-author="carl"
+   kind="file"
+   prop-time="2006-07-14T15:08:51.000000Z"/>
+<entry
+   committed-rev="201"
+   name="classes.nib"
+   text-time="2006-07-14T15:08:52.000000Z"
+   committed-date="2006-07-13T20:59:32.636631Z"
+   checksum="cf35e19cecc6b31006274270378dbc9e"
+   last-author="carl"
+   kind="file"
+   prop-time="2006-07-14T15:08:51.000000Z"/>
+</wc-entries>

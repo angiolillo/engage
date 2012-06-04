@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="svn://gs3071.sp.cs.cmu.edu"
+   revision="417"
+   url="svn://gs3071.sp.cs.cmu.edu/voyager/trunk/code/java/backend/queue"
+   last-author="jterlesk"
+   uuid="be5068c7-5494-b94e-a2e3-ccce799c6744"
+   committed-date="2006-08-09T00:33:14.051509Z"
+   name=""
+   kind="dir"
+   committed-rev="415"/>
+<entry
+   checksum="47dc6b65046c97244c5cb02db7515d1c"
+   text-time="2006-08-09T00:33:14.000000Z"
+   kind="file"
+   last-author="jterlesk"
+   committed-date="2006-08-09T00:33:14.051509Z"
+   name="GroupQueue.java"
+   committed-rev="415"/>
+<entry
+   checksum="c4cff7578db46a69fb38f0fcae88efcf"
+   text-time="2006-08-09T00:33:14.000000Z"
+   kind="file"
+   last-author="jterlesk"
+   committed-date="2006-08-09T00:33:14.051509Z"
+   name="InstructorQueue.java"
+   committed-rev="415"/>
+<entry
+   checksum="1732d036a2b3711df56ccd3f22b2e6c4"
+   text-time="2006-08-09T00:33:14.000000Z"
+   kind="file"
+   last-author="jterlesk"
+   committed-date="2006-08-09T00:33:14.051509Z"
+   name="ProgramQueue.java"
+   committed-rev="415"/>
+<entry
+   checksum="b92cd6a81f35825b26278321fdd3caf2"
+   text-time="2006-08-09T00:33:14.000000Z"
+   kind="file"
+   last-author="jterlesk"
+   committed-date="2006-08-09T00:33:14.051509Z"
+   name="QueueLibrary.java"
+   committed-rev="415"/>
+<entry
+   checksum="e3d10ba3bc3b012dfacb2ed451be9487"
+   text-time="2006-08-09T00:33:14.000000Z"
+   kind="file"
+   last-author="jterlesk"
+   committed-date="2006-08-09T00:33:14.051509Z"
+   name="StationQueue.java"
+   committed-rev="415"/>
+</wc-entries>

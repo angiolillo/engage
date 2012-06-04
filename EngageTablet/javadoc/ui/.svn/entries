@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   revision="417"
+   repos="svn://gs3071.sp.cs.cmu.edu"
+   url="svn://gs3071.sp.cs.cmu.edu/voyager/trunk/code/java/javadoc/ui"
+   last-author="carl"
+   uuid="be5068c7-5494-b94e-a2e3-ccce799c6744"
+   committed-date="2006-08-08T16:38:28.188786Z"
+   name=""
+   kind="dir"
+   committed-rev="398"/>
+<entry
+   checksum="669a0fa74e528029ab7a59232bd86891"
+   last-author="carl"
+   text-time="2006-08-08T16:06:25.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="DraggableImage.html"
+   committed-rev="398"/>
+<entry
+   name="class-use"
+   kind="dir"/>
+<entry
+   name="login"
+   kind="dir"/>
+<entry
+   kind="dir"
+   name="medialibraryview"/>
+<entry
+   checksum="ee94897840e4f71edae5622140cef7fe"
+   last-author="carl"
+   text-time="2006-08-08T16:06:33.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="package-frame.html"
+   committed-rev="398"/>
+<entry
+   checksum="f83f5e624af860329347e4b47d13af76"
+   last-author="carl"
+   text-time="2006-08-08T16:06:33.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="package-summary.html"
+   committed-rev="398"/>
+<entry
+   checksum="399f4d38805240d5ad2d811e99fd61d8"
+   last-author="carl"
+   text-time="2006-08-08T16:06:33.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="package-tree.html"
+   committed-rev="398"/>
+<entry
+   checksum="6477dea2a959df9994d70b86acf5315e"
+   last-author="carl"
+   text-time="2006-08-08T16:06:34.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="package-use.html"
+   committed-rev="398"/>
+<entry
+   kind="dir"
+   name="queue"/>
+<entry
+   name="stage"
+   kind="dir"/>
+</wc-entries>

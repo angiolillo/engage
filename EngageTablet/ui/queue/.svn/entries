@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="svn://gs3071.sp.cs.cmu.edu"
+   revision="417"
+   url="svn://gs3071.sp.cs.cmu.edu/voyager/trunk/code/java/ui/queue"
+   last-author="jterlesk"
+   uuid="be5068c7-5494-b94e-a2e3-ccce799c6744"
+   committed-date="2006-08-09T00:33:14.051509Z"
+   name=""
+   kind="dir"
+   committed-rev="415"/>
+<entry
+   checksum="a8fd52fab8671d1803854f803e6d935b"
+   last-author="jterlesk"
+   prop-time="2006-08-05T04:26:35.000000Z"
+   text-time="2006-07-06T20:26:46.000000Z"
+   committed-date="2006-07-06T20:26:46.759385Z"
+   name="01.png"
+   kind="file"
+   committed-rev="79"/>
+<entry
+   checksum="71b6990317d6a2e7d0b1d5ae05a58595"
+   last-author="jterlesk"
+   prop-time="2006-08-05T04:26:35.000000Z"
+   text-time="2006-07-06T20:26:46.000000Z"
+   committed-date="2006-07-06T20:26:46.759385Z"
+   name="02.png"
+   kind="file"
+   committed-rev="79"/>
+<entry
+   checksum="8d692b43a60021e212e5194979edb627"
+   last-author="carl"
+   text-time="2006-08-08T16:32:22.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   name="DragImagesHereJPanel.java"
+   kind="file"
+   committed-rev="398"/>
+<entry
+   revision="418"
+   checksum="981fa3333dbe39978550d5b5eaf3bbe1"
+   last-author="carl"
+   text-time="2006-08-09T05:06:03.000000Z"
+   committed-date="2006-08-09T05:07:43.125000Z"
+   kind="file"
+   name="MediaStrip.java"
+   committed-rev="418"/>
+<entry
+   revision="418"
+   checksum="54f931c08a0bffb0b25040fdab8291dd"
+   last-author="carl"
+   text-time="2006-08-09T05:06:03.000000Z"
+   committed-date="2006-08-09T05:07:43.125000Z"
+   name="MediaStripCollection.java"
+   kind="file"
+   committed-rev="418"/>
+<entry
+   checksum="ab58c2a6f8cd3e9168bd3a171c709efd"
+   last-author="jterlesk"
+   text-time="2006-08-09T00:33:14.000000Z"
+   committed-date="2006-08-09T00:33:14.051509Z"
+   kind="file"
+   name="MediaStripTest.java"
+   committed-rev="415"/>
+<entry
+   checksum="3c7b66adae8cad58a1384061f6f7db0b"
+   last-author="carl"
+   text-time="2006-08-08T16:34:55.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   name="PanelListener.java"
+   kind="file"
+   committed-rev="398"/>
+<entry
+   checksum="e6f61f94d3daa14db66d850b828cbbcd"
+   last-author="carl"
+   text-time="2006-08-08T16:30:47.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   name="QueueImage.java"
+   kind="file"
+   committed-rev="398"/>
+<entry
+   checksum="526f296474bb2104a795fc6156caaa65"
+   last-author="carl"
+   text-time="2006-08-08T16:32:25.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   name="TabReorderHandler.java"
+   kind="file"
+   committed-rev="398"/>
+<entry
+   checksum="db18a5ac4b902dad23d634f7c0265dcf"
+   last-author="jterlesk"
+   prop-time="2006-08-05T04:26:35.000000Z"
+   text-time="2006-07-13T16:32:09.000000Z"
+   committed-date="2006-07-13T16:32:09.709397Z"
+   name="imageDelete.png"
+   kind="file"
+   committed-rev="193"/>
+<entry
+   checksum="3ed62564f3dc5fd0319a8f035a376c38"
+   last-author="jterlesk"
+   prop-time="2006-08-05T04:26:35.000000Z"
+   text-time="2006-07-08T00:50:17.000000Z"
+   committed-date="2006-07-08T00:50:17.264492Z"
+   name="line.png"
+   kind="file"
+   committed-rev="126"/>
+<entry
+   checksum="2e44bd6dfff8bb1195fec60793baf645"
+   last-author="jterlesk"
+   prop-time="2006-08-05T04:26:35.000000Z"
+   text-time="2006-07-08T00:50:17.000000Z"
+   committed-date="2006-07-08T00:50:17.264492Z"
+   name="lineEmpty.png"
+   kind="file"
+   committed-rev="126"/>
+<entry
+   checksum="a62dc4fab59b76c585630b7ff0d19f44"
+   last-author="jterlesk"
+   prop-time="2006-08-05T04:26:35.000000Z"
+   text-time="2006-07-06T20:32:56.000000Z"
+   committed-date="2006-07-06T20:32:56.324251Z"
+   name="tabIcon.png"
+   kind="file"
+   committed-rev="80"/>
+<entry
+   checksum="d7451bb95df3a4a7d056dba59066af0a"
+   last-author="jterlesk"
+   prop-time="2006-08-05T04:26:35.000000Z"
+   text-time="2006-07-12T23:13:10.000000Z"
+   committed-date="2006-07-12T23:13:10.986276Z"
+   name="tabPlus.png"
+   kind="file"
+   committed-rev="172"/>
+</wc-entries>

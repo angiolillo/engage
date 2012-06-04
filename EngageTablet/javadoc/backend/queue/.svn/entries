@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   revision="417"
+   repos="svn://gs3071.sp.cs.cmu.edu"
+   url="svn://gs3071.sp.cs.cmu.edu/voyager/trunk/code/java/javadoc/backend/queue"
+   last-author="carl"
+   uuid="be5068c7-5494-b94e-a2e3-ccce799c6744"
+   committed-date="2006-08-08T16:38:28.188786Z"
+   name=""
+   kind="dir"
+   committed-rev="398"/>
+<entry
+   checksum="85e78b520520dc617d0dcf716ff5904e"
+   last-author="carl"
+   text-time="2006-08-08T16:06:25.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="GroupQueue.html"
+   committed-rev="398"/>
+<entry
+   checksum="437faf3587a278da694c66998ea779e5"
+   last-author="Carl"
+   text-time="2006-07-05T21:46:16.000000Z"
+   committed-date="2006-07-05T21:46:16.231394Z"
+   kind="file"
+   name="InstructorQueues.html"
+   committed-rev="68"/>
+<entry
+   checksum="1b37c3827b54d0960a7a71e7dbb87ba6"
+   last-author="Carl"
+   text-time="2006-07-05T21:46:16.000000Z"
+   committed-date="2006-07-05T21:46:16.231394Z"
+   kind="file"
+   name="ProgramQueues.html"
+   committed-rev="68"/>
+<entry
+   checksum="d0c0929537a97b79b67717c6814815f2"
+   last-author="carl"
+   text-time="2006-08-08T16:06:26.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="QueueLibrary.html"
+   committed-rev="398"/>
+<entry
+   checksum="4bd0fe6973f609d57dd5ecacd154acc9"
+   last-author="carl"
+   text-time="2006-08-08T16:06:26.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="StationQueue.html"
+   committed-rev="398"/>
+<entry
+   checksum="a685181ea8348b7105f13dbbc2ebe014"
+   last-author="Carl"
+   text-time="2006-07-01T04:24:18.000000Z"
+   committed-date="2006-07-01T04:24:18.190704Z"
+   kind="file"
+   name="StationQueueGroups.html"
+   committed-rev="50"/>
+<entry
+   name="class-use"
+   kind="dir"/>
+<entry
+   checksum="93749f79e98b714f9f7e925ce7689abb"
+   last-author="carl"
+   text-time="2006-08-08T16:06:33.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="package-frame.html"
+   committed-rev="398"/>
+<entry
+   checksum="7a3d101c1a572b477833742b76761a6c"
+   last-author="carl"
+   text-time="2006-08-08T16:06:33.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="package-summary.html"
+   committed-rev="398"/>
+<entry
+   checksum="ffc099056814e59ffa06e45754794062"
+   last-author="carl"
+   text-time="2006-08-08T16:06:33.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="package-tree.html"
+   committed-rev="398"/>
+<entry
+   checksum="2e4c86e47feee1d1e32e43a7ad173a28"
+   last-author="carl"
+   text-time="2006-08-08T16:06:34.000000Z"
+   committed-date="2006-08-08T16:38:28.188000Z"
+   kind="file"
+   name="package-use.html"
+   committed-rev="398"/>
+</wc-entries>

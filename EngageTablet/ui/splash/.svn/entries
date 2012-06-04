@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="svn://gs3071.sp.cs.cmu.edu"
+   revision="417"
+   url="svn://gs3071.sp.cs.cmu.edu/voyager/trunk/code/java/ui/splash"
+   last-author="jterlesk"
+   uuid="be5068c7-5494-b94e-a2e3-ccce799c6744"
+   committed-date="2006-08-09T01:03:57.453932Z"
+   name=""
+   kind="dir"
+   committed-rev="417"/>
+<entry
+   checksum="720675adadc4249379c00e5c24e9b1a3"
+   last-author="jterlesk"
+   text-time="2006-08-09T00:33:14.000000Z"
+   committed-date="2006-08-09T00:33:14.051509Z"
+   name="VoyagerSplash.java"
+   kind="file"
+   committed-rev="415"/>
+<entry
+   checksum="bc132786dc9695f661ed317989ec6d82"
+   last-author="andy"
+   prop-time="2006-08-08T08:06:12.000000Z"
+   text-time="2006-08-07T21:30:44.000000Z"
+   committed-date="2006-08-07T21:30:44.910540Z"
+   name="anim.gif"
+   kind="file"
+   committed-rev="390"/>
+<entry
+   checksum="cc06a814755fac751a608aa3813c70e0"
+   last-author="jterlesk"
+   prop-time="2006-08-09T05:05:07.000000Z"
+   text-time="2006-08-09T01:03:57.000000Z"
+   committed-date="2006-08-09T01:03:57.453932Z"
+   name="vger_splash.png"
+   kind="file"
+   committed-rev="417"/>
+</wc-entries>

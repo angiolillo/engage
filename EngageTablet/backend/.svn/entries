@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="svn://gs3071.sp.cs.cmu.edu"
+   revision="417"
+   url="svn://gs3071.sp.cs.cmu.edu/voyager/trunk/code/java/backend"
+   last-author="jterlesk"
+   uuid="be5068c7-5494-b94e-a2e3-ccce799c6744"
+   committed-date="2006-08-09T01:03:57.453932Z"
+   kind="dir"
+   name=""
+   committed-rev="417"/>
+<entry
+   kind="dir"
+   name="config"/>
+<entry
+   kind="dir"
+   name="library"/>
+<entry
+   name="queue"
+   kind="dir"/>
+</wc-entries>

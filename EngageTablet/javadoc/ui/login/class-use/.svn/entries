@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="svn://gs3071.sp.cs.cmu.edu"
+   revision="417"
+   url="svn://gs3071.sp.cs.cmu.edu/voyager/trunk/code/java/javadoc/ui/login/class-use"
+   last-author="Carl"
+   uuid="be5068c7-5494-b94e-a2e3-ccce799c6744"
+   committed-date="2006-07-05T21:46:16.231394Z"
+   name=""
+   kind="dir"
+   committed-rev="68"/>
+<entry
+   checksum="399842c12548b010260909739d6df6fb"
+   last-author="Carl"
+   text-time="2006-07-05T21:46:16.000000Z"
+   committed-date="2006-07-05T21:46:16.231394Z"
+   name="InitialLogon.html"
+   kind="file"
+   committed-rev="68"/>
+</wc-entries>
